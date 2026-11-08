@@ -2,15 +2,15 @@
 
 Practical digital products: data packs, templates, prompt collections, and checklists.
 
-**Payment**  
-PayPal: crh2509@icloud.com  
-Signal / Phone: 671-456-6963 (671.I KNOW ME)
+**Payment / Contact**  
+PayPal: `crh2509@icloud.com`  
+Signal / Phone: `671-456-6963` (671.I KNOW ME)
 
 ## Products
 
-1. [US Census Surname Data](products/01-census-surnames.html) – Clean demographic datasets
+1. [US Census Surname Data](products/01-census-surnames.html) – Clean demographic datasets by rank range
 2. [AI Image Prompt Pack](products/02-ai-prompts.html) – 50 high-quality prompts
-3. [Personal Finance Tracker](products/03-finance-tracker.html) – Simple Excel-ready template
+3. [Personal Finance Tracker](products/03-finance-tracker.html) – Simple spreadsheet template
 4. [Content Calendar Template](products/04-content-calendar.html)
 5. [Prompt Engineering Cheat Sheet](products/05-prompt-cheatsheet.html)
 6. [Digital Product Launch Checklist](products/06-launch-checklist.html)
@@ -19,6 +19,7 @@ Signal / Phone: 671-456-6963 (671.I KNOW ME)
 9. [Weekly AI Digest Template](products/09-ai-digest.html)
 10. [Data Cleaning Checklist](products/10-data-cleaning.html)
 
-Files are stored in Google Drive (STORE folder). Contact via PayPal or Signal to purchase full versions.
+Free samples are available in the [`STORE`](STORE/) folder of this repository and in the matching Google Drive folder.
 
-Live storefront: https://ram133.github.io/store/
+**Live storefront:** https://ram133.github.io/store/  
+**Google Drive STORE:** https://drive.google.com/drive/folders/18ZR0MKk_h_8R-wMB4oHZXhjDaR-9VTtM
