@@ -2,9 +2,25 @@
 
 Practical digital products: data packs, templates, prompt collections, and checklists.
 
-**Payment / Contact**  
-PayPal: `crh2509@icloud.com`  
-Signal / Phone: `671-456-6963` (671.I KNOW ME)
+**Live storefront:** https://ram133.github.io/store/  
+**Google Drive STORE:** https://drive.google.com/drive/folders/18ZR0MKk_h_8R-wMB4oHZXhjDaR-9VTtM
+
+---
+
+## Contact & Payment
+
+| Method | Details |
+|--------|---------|
+| **Phone / Signal** | +1 (671) 685-9138 · +1 (671) 456-6963 |
+| **Email** | 3659745@gmail.com · crh2509@icloud.com · crh2123@icloud.com |
+| **Website** | [ray.services](https://ray.services) |
+| **PayPal** | crh2123@icloud.com or crh2509@icloud.com |
+| **Cash App / Stripe** | Via [ray.services](https://ray.services) |
+| **Live 1-on-1** | $1/min — product systems, data, AI automation |
+
+All payments go directly to Ray.
+
+---
 
 ## Products
 
@@ -21,5 +37,6 @@ Signal / Phone: `671-456-6963` (671.I KNOW ME)
 
 Free samples are available in the [`STORE`](STORE/) folder of this repository and in the matching Google Drive folder.
 
-**Live storefront:** https://ram133.github.io/store/  
-**Google Drive STORE:** https://drive.google.com/drive/folders/18ZR0MKk_h_8R-wMB4oHZXhjDaR-9VTtM
+---
+
+**Star the repo** if you want updates on new digital products.
